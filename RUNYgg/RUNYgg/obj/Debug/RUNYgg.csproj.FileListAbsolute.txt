@@ -1,0 +1,12 @@
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\bin\Debug\RUNYgg.exe.config
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\bin\Debug\RUNYgg.exe
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\bin\Debug\RUNYgg.pdb
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.Properties.Resources.resources
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.exe
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.pdb
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.Form1.resources
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.principal.resources
+C:\Users\diego\source\repos\RUNYgg\RUNYgg\obj\Debug\RUNYgg.Form2.resources
